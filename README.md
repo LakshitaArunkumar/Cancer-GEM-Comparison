@@ -56,5 +56,3 @@ The public R script implements module scoring, cross-origin cosine similarity, P
 ## Interpretation and limitations
 Cosine and correlation quantify similarities of **GSVA module-score profiles across the chosen reference samples**; they do not prove equivalent pathways, cell states, causal mechanisms, or clinical relevance. Shared CRC reference matrices and the different source cancers can influence apparent similarity. The example data are **random synthetic data, not biological evidence**. The repository omits the original datasets, collaborator notebooks, and historical results pending explicit permission. It cannot reproduce the original project end-to-end without authorized input data and version-matched processing.
 
-## Disclosure and ownership
-No public license is assigned pending clarification of research code ownership and intellectual-property permissions. Confirm release of even newly reconstructed code with the supervisor/institution if needed. This repository provides portfolio-level methodology and independently written demonstration code, not a release of unpublished collaborator work.
